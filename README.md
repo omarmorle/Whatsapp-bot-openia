@@ -17,11 +17,11 @@ Este proyecto es un bot de WhatsApp creado en conjunto con mis amigos. Permite r
 
 ## Instalación
 
-- `mkdir whatsapp-bot.
-- `cd whatsapp-bot.
-- `npm init -y.
-- `Inserta el archivo index.js en la carpeta del proyecto.
+- mkdir whatsapp-bot.
+- cd whatsapp-bot.
+- npm init -y.
+- Inserta el archivo index.js en la carpeta del proyecto.
 
 ## Ejecución
 
-- `node index.js
+- node index.js
